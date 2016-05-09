@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>限时特卖</string>
+		<key>normal</key>
+		<string>菜单栏限时特卖按钮未选中状态</string>
+		<key>selected</key>
+		<string>菜单栏限时特卖按钮选中状态</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>分类</string>
+		<key>normal</key>
+		<string>菜单栏分类按钮未选中状态</string>
+		<key>selected</key>
+		<string>菜单栏分类按钮选中状态</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>购物车</string>
+		<key>normal</key>
+		<string>菜单栏购物车按钮未选中状态</string>
+		<key>selected</key>
+		<string>菜单栏购物车按钮选中状态</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>我的</string>
+		<key>normal</key>
+		<string>菜单栏我的按钮未选中状态</string>
+		<key>selected</key>
+		<string>菜单栏我的按钮选中状态</string>
+	</dict>
+</array>
+</plist>
